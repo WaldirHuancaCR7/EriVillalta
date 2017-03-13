@@ -15,11 +15,8 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <a href="PersonaControlx?opc=B">
-            Crear Persona
-        </a>
-        <a href="PersonaControlx?opc=A">
-            Reportar Persona
-        </a>
-    </body>
+        <h1>Hello World!<h1>
+        <h2>Hello World!<h2>  
+        <h3>Hello World!<h3> 
+        <h6>Hello World!<h6>
 </html>
